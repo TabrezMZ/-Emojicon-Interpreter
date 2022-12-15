@@ -1,0 +1,14 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+
+
+h1,h2{
+  text-align: center
+}
+
+body {
+  background: royalblue;
+}
