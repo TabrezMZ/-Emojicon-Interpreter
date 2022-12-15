@@ -33,7 +33,7 @@ export default function App() {
       setMeaning(emojisWallet[inputEmoji])
     }
     else{
-      setMeaning("this value is not available in our database")
+      setMeaning("this value is not available in our data")
     }
   }
 
